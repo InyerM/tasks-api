@@ -15,7 +15,9 @@ First, you have to use Mongodb to create your first user admin. You must create 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"role" : "admin" // your role (admin || user)<br>
 }<br>
 
-There is no validations, so take care with the information that you upload
+Then use the frontend part to login by first time and start to use
+
+Note: There is no validations, so take care with the information that you upload
 
 Here is the link of the frontend part: https://github.com/InyerM/task-app
 
